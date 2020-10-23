@@ -14,3 +14,7 @@ But anyways, texts only are boring, so here's a quick recap of me:
 - 📫 How to reach me: instagram.com/gedeprasidha or linkedin.com/in/gedeprasidha
 - 😄 Pronouns: he. Yes, I'm a male
 - ⚡ Fun fact: I'm braindead
+
+Btw, I've made an quick explanation on Google Cloud and a small code for Insight from Data with BigQuery: Challenge Lab in Google Qwiklabs. Here's the link if you want to check it out:
+- Exploration on Google Cloud : https://github.com/LordGedelicious/GoogleCloud-Exploration
+- Insights from Data with BigQuery: Challenge Lab 1st Query : https://github.com/LordGedelicious/Insights-from-Data-with-BigQuery-Challenge-Lab-1st-Challenge
